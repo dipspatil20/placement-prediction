@@ -20,12 +20,12 @@ def load_and_train_model():
     global model, scaler, label_encoders, feature_columns
     
     # Check if dataset exists
-    if not os.path.exists('student_placement_data.csv'):
-        print("⚠️ Dataset not found. Please upload 'student_placement_data.csv'")
+    if not os.path.exists('placement-prediction//student_placement_data.csv'):
+        print("Dataset not found. Please upload 'student_placement_data.csv'")
         return False
     
     # Load dataset
-    df = pd.read_csv('student_placement_data.csv')
+    df = pd.read_csv('placement-prediction//student_placement_data.csv')
     
     # Drop name column if exists
     if 'name' in df.columns:
@@ -63,7 +63,7 @@ def load_and_train_model():
 def save_to_dataset(student_data):
     """Save student data to CSV"""
     try:
-        df = pd.read_csv('student_placement_data.csv')
+        df = pd.read_csv('placement-prediction//student_placement_data.csv')
         new_row = pd.DataFrame([student_data])
         df = pd.concat([df, new_row], ignore_index=True)
         df.to_csv('student_placement_data.csv', index=False)
