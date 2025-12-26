@@ -1,0 +1,273 @@
+name,age,gender,branch,attendance_percentage,current_cgpa,graduation_percentage,hsc,ssc,aptitude_score,communication_skills,technical_skills,domain,internship,certifications,placement_status
+Student_1,22,Male,HR,70.7,6.05,79.1,92.3,76.0,44,4,4,IT,No,10,Placed
+Student_2,20,Male,HR,85.9,6.41,70.7,66.9,67.6,32,9,7,IT,No,More than 20,Placed
+Student_3,22,Male,Management,67.6,9.8,94.2,78.6,73.8,36,4,10,Other,Yes,More than 20,Placed
+Student_4,21,Female,Other,89.1,9.7,80.7,79.5,91.9,37,6,4,IT,No,10,Not Placed
+Student_5,22,Male,CSE,75.6,9.11,91.4,66.5,89.8,30,7,9,IT,No,10,Placed
+Student_6,20,Female,IT,68.0,7.45,60.4,72.8,84.4,54,4,10,IT,Yes,5,Placed
+Student_7,20,Male,Management,87.6,7.15,83.9,86.0,73.5,53,4,8,Other,No,10,Placed
+Student_8,23,Female,CSE,90.9,6.94,80.6,94.8,61.1,50,9,5,Other,No,15,Placed
+Student_9,24,Male,Management,91.3,8.96,68.5,87.2,94.0,41,7,6,IT,No,More than 20,Placed
+Student_10,21,Female,CSE,72.5,9.13,81.9,81.1,90.7,59,6,9,Other,No,15,Placed
+Student_11,23,Female,IT,67.9,9.61,81.9,64.7,72.2,53,9,4,HR,No,10,Not Placed
+Student_12,24,Male,Management,87.8,6.21,91.3,65.9,85.4,40,8,7,Management,Yes,5,Placed
+Student_13,22,Male,Other,80.7,6.66,91.8,90.2,64.1,34,4,8,Management,No,15,Placed
+Student_14,20,Female,Management,94.8,7.74,90.9,86.9,73.1,46,7,6,IT,No,10,Placed
+Student_15,21,Female,Management,93.1,9.06,74.5,91.4,88.2,55,8,6,HR,No,15,Placed
+Student_16,21,Female,Management,98.4,8.35,92.0,88.0,65.0,57,6,6,Management,Yes,10,Placed
+Student_17,22,Male,CSE,64.9,8.47,81.5,76.0,91.2,59,10,9,Other,Yes,More than 20,Not Placed
+Student_18,22,Male,CSE,87.1,6.1,69.7,89.0,60.1,34,5,8,Management,Yes,10,Placed
+Student_19,23,Male,Other,60.5,8.56,85.7,92.3,65.7,34,7,7,IT,No,15,Not Placed
+Student_20,23,Female,HR,95.8,9.29,67.8,64.6,68.5,43,4,5,Other,Yes,More than 20,Placed
+Student_21,20,Female,Management,71.0,7.75,84.2,72.6,78.0,50,5,10,IT,Yes,15,Placed
+Student_22,23,Female,HR,83.2,6.93,88.5,91.3,67.5,49,10,10,Other,Yes,5,Placed
+Student_23,24,Female,Management,63.0,9.9,71.9,80.2,77.3,35,7,5,IT,Yes,5,Placed
+Student_24,23,Male,CSE,86.0,7.12,74.0,64.5,71.5,47,8,8,IT,No,5,Placed
+Student_25,23,Male,HR,88.4,9.14,85.9,67.5,88.6,46,8,8,HR,No,More than 20,Placed
+Student_26,22,Female,HR,60.5,7.22,61.1,82.3,89.2,31,4,10,Management,No,5,Not Placed
+Student_27,23,Female,CSE,70.3,6.08,84.6,55.0,87.9,46,7,6,Other,Yes,5,Not Placed
+Student_28,22,Female,CSE,65.3,8.73,83.0,77.7,67.8,30,5,7,IT,No,5,Placed
+Student_29,23,Female,IT,90.8,7.27,66.4,55.6,81.2,29,7,7,HR,No,15,Placed
+Student_30,23,Female,HR,72.9,6.74,62.3,71.0,91.7,40,5,6,HR,No,10,Placed
+Student_31,23,Male,Management,93.0,8.02,89.0,56.3,86.4,53,7,9,Management,No,10,Not Placed
+Student_32,24,Male,CSE,77.6,9.06,79.6,59.2,75.3,38,7,4,Other,No,10,Not Placed
+Student_33,23,Male,Other,99.1,8.84,94.1,83.2,73.7,30,4,10,Other,No,More than 20,Placed
+Student_34,20,Female,CSE,77.5,6.05,84.5,67.5,93.1,31,7,4,HR,Yes,10,Not Placed
+Student_35,20,Male,CSE,71.5,6.87,88.0,92.7,72.7,25,8,9,Other,No,15,Not Placed
+Student_36,24,Female,Other,86.0,6.22,78.7,61.7,76.9,44,10,10,Management,No,5,Not Placed
+Student_37,24,Male,Other,98.4,9.58,79.2,82.6,91.5,27,7,10,Other,Yes,5,Placed
+Student_38,24,Male,IT,75.0,8.06,62.6,72.7,60.9,34,10,8,IT,No,5,Placed
+Student_39,24,Female,Management,85.9,9.71,84.5,65.9,61.0,44,7,4,HR,No,10,Not Placed
+Student_40,22,Female,HR,78.8,7.87,69.0,67.7,84.4,55,5,8,Management,No,10,Placed
+Student_41,20,Female,CSE,92.1,8.48,86.1,78.7,85.3,54,6,6,HR,Yes,10,Placed
+Student_42,23,Female,IT,65.6,9.29,88.6,60.2,73.5,54,5,6,Management,No,15,Placed
+Student_43,24,Female,Management,62.3,6.79,93.0,79.5,82.4,39,10,5,Management,Yes,15,Placed
+Student_44,23,Male,Other,89.4,8.43,92.2,70.1,61.4,39,4,7,Other,No,More than 20,Not Placed
+Student_45,22,Female,Other,85.3,8.81,75.1,57.2,74.0,26,8,7,Other,No,15,Not Placed
+Student_46,24,Female,IT,88.3,9.12,69.1,62.4,63.6,30,6,7,Other,No,5,Placed
+Student_47,23,Male,HR,63.4,7.22,68.4,83.2,83.3,46,10,4,IT,No,10,Placed
+Student_48,23,Female,IT,72.2,8.53,62.1,64.5,64.4,33,4,10,Management,No,5,Placed
+Student_49,23,Male,CSE,73.2,9.55,88.1,71.0,67.4,27,5,6,IT,No,5,Placed
+Student_50,23,Male,Management,95.2,7.04,75.9,66.5,80.9,56,8,6,Management,Yes,5,Not Placed
+Student_51,23,Male,Management,98.8,7.18,71.9,71.1,70.4,43,8,7,Other,No,15,Placed
+Student_52,21,Female,IT,68.0,8.97,94.4,69.6,61.7,30,10,5,HR,No,15,Placed
+Student_53,22,Male,CSE,69.2,7.51,91.7,72.1,80.9,55,9,10,Management,Yes,5,Not Placed
+Student_54,21,Male,Management,60.3,6.49,80.5,81.3,86.6,38,6,4,Other,No,5,Placed
+Student_55,24,Female,IT,64.1,6.46,92.0,58.4,86.6,40,4,5,HR,Yes,5,Placed
+Student_56,24,Male,HR,71.2,8.37,75.9,62.8,66.3,41,7,9,Other,Yes,More than 20,Placed
+Student_57,23,Female,Management,86.6,6.61,67.0,92.1,67.4,42,10,4,IT,No,15,Placed
+Student_58,21,Male,Management,83.1,6.35,75.4,61.6,72.9,46,5,8,Other,No,10,Placed
+Student_59,22,Male,CSE,80.2,6.43,87.7,68.2,91.9,60,5,10,Other,No,15,Not Placed
+Student_60,22,Female,CSE,91.6,9.62,92.4,88.8,75.9,56,6,5,IT,Yes,10,Placed
+Student_61,20,Male,Management,88.2,8.44,93.3,86.0,75.2,46,5,10,HR,Yes,15,Placed
+Student_62,23,Male,IT,78.8,9.25,81.3,67.8,82.4,43,10,7,Management,No,More than 20,Placed
+Student_63,23,Female,CSE,66.8,8.95,70.6,62.9,76.1,53,4,5,Management,No,5,Placed
+Student_64,23,Female,Other,97.0,9.89,90.0,59.9,71.3,36,9,9,Management,Yes,10,Not Placed
+Student_65,20,Male,IT,75.0,8.93,81.6,65.3,78.6,30,8,4,Management,No,More than 20,Placed
+Student_66,21,Female,Management,60.5,8.43,82.0,74.5,64.8,55,4,4,HR,No,10,Placed
+Student_67,22,Female,CSE,84.4,6.79,64.1,63.0,77.6,58,5,8,IT,No,15,Not Placed
+Student_68,24,Male,CSE,73.5,9.61,65.2,58.3,91.9,57,5,10,HR,Yes,10,Not Placed
+Student_69,21,Female,Management,86.9,6.51,83.0,86.3,61.9,53,4,5,Other,Yes,More than 20,Placed
+Student_70,24,Female,Other,95.8,8.73,82.5,65.3,74.4,32,9,8,Management,Yes,10,Not Placed
+Student_71,20,Male,IT,90.8,7.22,65.7,84.7,75.1,41,10,7,IT,Yes,5,Placed
+Student_72,23,Female,Management,64.1,8.37,72.6,80.4,81.1,48,5,10,Management,No,10,Not Placed
+Student_73,22,Male,CSE,86.3,9.56,65.3,76.0,70.5,53,5,9,Management,Yes,5,Placed
+Student_74,23,Female,Management,71.5,6.46,72.8,60.9,72.3,49,8,9,HR,No,10,Not Placed
+Student_75,24,Male,Other,89.3,6.71,62.1,85.6,85.3,43,6,5,Other,No,More than 20,Placed
+Student_76,20,Male,IT,79.8,6.56,63.4,61.3,76.0,59,7,9,Other,Yes,10,Placed
+Student_77,22,Male,CSE,71.5,8.53,80.2,69.1,84.6,40,9,6,HR,No,5,Placed
+Student_78,23,Male,HR,85.9,7.39,76.6,63.7,69.6,45,10,10,HR,Yes,15,Not Placed
+Student_79,23,Female,IT,85.8,9.07,92.8,60.5,65.9,47,5,8,Other,No,5,Placed
+Student_80,21,Male,Other,80.7,8.86,87.5,56.8,91.6,49,4,10,Other,Yes,5,Placed
+Student_81,22,Female,CSE,66.3,9.77,67.6,76.6,61.9,42,6,7,HR,No,10,Not Placed
+Student_82,22,Female,HR,92.2,6.42,93.7,63.5,82.2,44,4,4,Management,Yes,15,Placed
+Student_83,24,Male,CSE,75.8,8.15,86.3,69.8,66.2,37,6,6,IT,No,More than 20,Not Placed
+Student_84,21,Female,CSE,67.2,7.6,84.8,76.4,72.8,49,10,7,Other,No,10,Not Placed
+Student_85,22,Female,HR,91.2,6.4,91.5,78.0,79.0,57,4,5,Management,Yes,5,Placed
+Student_86,23,Male,Management,66.7,6.8,79.3,65.7,61.4,38,10,10,IT,No,5,Placed
+Student_87,22,Male,IT,67.7,9.26,79.2,86.6,81.8,25,5,8,Management,No,15,Placed
+Student_88,20,Female,HR,77.9,6.44,77.0,88.2,85.6,27,8,10,Management,No,5,Placed
+Student_89,24,Female,Other,65.1,7.29,65.8,65.2,67.5,30,6,8,IT,No,15,Placed
+Student_90,22,Female,Management,96.0,8.04,63.3,91.4,89.3,52,8,7,Management,No,10,Placed
+Student_91,22,Female,CSE,87.2,7.66,93.4,86.4,92.4,25,8,9,IT,Yes,5,Not Placed
+Student_92,24,Male,IT,70.0,8.29,88.2,77.1,67.4,50,9,4,IT,Yes,15,Not Placed
+Student_93,20,Female,Other,81.3,6.89,93.3,76.9,65.4,53,4,9,Management,Yes,5,Placed
+Student_94,21,Male,IT,60.7,6.39,67.9,82.7,88.2,38,9,7,HR,No,More than 20,Placed
+Student_95,22,Male,Other,81.2,9.29,80.4,81.8,71.6,37,7,9,Management,No,10,Placed
+Student_96,20,Female,Management,82.2,9.04,71.7,56.8,76.7,29,4,9,Management,Yes,5,Not Placed
+Student_97,22,Female,HR,78.5,7.78,80.9,71.0,82.0,38,4,8,HR,No,More than 20,Placed
+Student_98,24,Female,CSE,81.9,8.03,92.3,69.1,78.4,41,8,7,IT,Yes,5,Placed
+Student_99,21,Female,IT,65.8,7.99,61.2,90.0,79.2,40,4,4,IT,No,5,Placed
+Student_100,24,Male,HR,92.7,9.68,93.1,78.8,85.4,40,9,9,IT,No,More than 20,Placed
+Aditi Sharma,22,Female,CSE,89.0,8.6,82.0,85.0,88.0,78,8,9,AI,Yes,Yes,Placed
+Rohan Mehta,23,Male,IT,76.0,7.4,74.0,71.0,82.0,65,6,7,Web,No,No,Not Placed
+Sneha Patil,21,Female,ECE,91.0,9.1,86.0,89.0,90.0,84,9,9,ML,Yes,Yes,Placed
+Harshit Verma,22,Male,CSE,84.0,8.1,79.0,80.0,85.0,75,8,8,Data,Yes,No,Placed
+Priya Nair,22,Female,IT,78.0,7.9,76.0,73.0,78.0,70,7,8,Web,No,Yes,Placed
+Aman Yadav,23,Male,CSE,88.0,8.7,83.0,81.0,86.0,82,9,8,AI,Yes,Yes,Placed
+Kavya Joshi,21,Female,ECE,80.0,7.8,77.0,76.0,80.0,72,7,7,Embedded,No,No,Not Placed
+Kunal Singh,22,Male,ME,74.0,7.1,72.0,69.0,75.0,65,6,7,Mech,No,No,Not Placed
+Neha Gupta,21,Female,CSE,92.0,9.2,87.0,90.0,91.0,85,9,9,AI,Yes,Yes,Placed
+Deepak Patel,23,Male,IT,79.0,7.9,75.0,74.0,80.0,70,7,8,Web,Yes,Yes,Placed
+Ritika Deshmukh,22,Female,CSE,86.0,8.4,81.0,83.0,85.0,76,8,8,ML,Yes,Yes,Placed
+Arjun Rao,22,Male,ECE,77.0,7.6,74.0,72.0,77.0,67,6,7,IoT,No,No,Not Placed
+Meera Iyer,21,Female,IT,90.0,9.0,85.0,86.0,88.0,82,9,8,Web,Yes,Yes,Placed
+Vikas Pawar,23,Male,CSE,85.0,8.2,80.0,79.0,84.0,75,8,8,Data,Yes,Yes,Placed
+Tanvi Kulkarni,21,Female,CSE,87.0,8.5,82.0,81.0,86.0,77,8,9,AI,Yes,Yes,Placed
+Manish Tiwari,23,Male,IT,75.0,7.3,73.0,70.0,76.0,66,6,6,Web,No,No,Not Placed
+Pooja Reddy,22,Female,ECE,88.0,8.8,83.0,84.0,88.0,80,8,9,IoT,Yes,Yes,Placed
+Ritesh Jha,23,Male,ME,73.0,7.0,71.0,68.0,74.0,63,6,7,Mech,No,No,Not Placed
+Shruti Ghosh,21,Female,CSE,90.0,9.1,86.0,88.0,89.0,83,9,9,ML,Yes,Yes,Placed
+Sarthak Jain,22,Male,IT,81.0,8.0,78.0,76.0,82.0,72,7,8,Web,Yes,Yes,Placed
+Anjali Das,21,Female,ECE,85.0,8.3,80.0,82.0,84.0,76,8,8,IoT,Yes,Yes,Placed
+Nikhil Patil,23,Male,CSE,79.0,7.9,76.0,75.0,79.0,70,7,7,Data,No,No,Not Placed
+Kritika Bhatt,22,Female,IT,84.0,8.2,81.0,80.0,84.0,75,8,8,Web,Yes,Yes,Placed
+Aditya More,22,Male,CSE,83.0,8.1,79.0,78.0,82.0,74,8,8,ML,Yes,Yes,Placed
+Rachana Kale,21,Female,ECE,86.0,8.5,82.0,83.0,86.0,78,8,8,Embedded,Yes,Yes,Placed
+Viraj Thakur,23,Male,ME,70.0,6.8,69.0,67.0,72.0,61,5,6,Mech,No,No,Not Placed
+Mitali Joshi,21,Female,IT,89.0,8.9,84.0,85.0,88.0,80,8,9,Web,Yes,Yes,Placed
+Rohan Patwardhan,23,Male,CSE,82.0,8.0,78.0,77.0,82.0,73,7,8,Data,Yes,Yes,Placed
+Divya Chavan,21,Female,CSE,88.0,8.8,83.0,85.0,88.0,81,9,9,AI,Yes,Yes,Placed
+Karan Jadhav,22,Male,ECE,74.0,7.2,73.0,71.0,76.0,65,6,6,IoT,No,No,Not Placed
+Sameer Kulkarni,22,Male,CSE,81.2,6.8,82.3,79.7,88.8,85,6,6,Embedded,No,No,Not Placed
+Yash Bhatt,23,Male,ME,79.6,9.0,87.0,68.7,71.0,65,5,6,IoT,No,Yes,Placed
+Arjun Mehta,22,Male,ME,77.4,8.1,88.5,70.6,73.9,67,6,8,Web,Yes,No,Not Placed
+Omkar Kale,23,Male,CSE,89.0,7.9,73.5,83.9,90.7,71,9,9,IoT,Yes,Yes,Placed
+Isha Thakur,23,Female,IT,83.5,7.3,69.3,90.4,85.7,61,8,7,Embedded,Yes,No,Placed
+Tanvi Sharma,23,Female,IT,86.5,9.2,79.2,73.7,88.5,83,9,9,Web,No,Yes,Placed
+Prachi Ghosh,21,Female,ME,83.7,8.0,70.0,79.8,75.3,63,9,8,ML,Yes,Yes,Placed
+Aman Jha,23,Male,CSE,73.1,8.7,76.1,72.6,76.4,75,7,8,ML,Yes,Yes,Placed
+Harshit Nair,22,Male,IT,78.5,7.0,69.0,73.9,73.9,80,8,9,Web,No,Yes,Not Placed
+Manish Patil,21,Male,ME,89.2,9.3,72.5,86.1,71.5,73,5,8,ML,No,Yes,Placed
+Bhavana Singh,23,Female,CSE,79.2,8.5,87.9,87.7,71.2,68,9,8,ML,Yes,No,Placed
+Sameer Reddy,22,Male,CSE,70.5,8.4,79.7,89.8,85.2,60,7,9,Data,Yes,Yes,Not Placed
+Rohit Kale,23,Male,ECE,89.4,7.0,84.3,88.7,73.7,82,8,7,AI,Yes,No,Placed
+Viraj Mehta,22,Male,IT,83.8,8.2,80.1,81.7,78.6,78,9,6,IoT,Yes,No,Placed
+Ritika Bhatt,23,Female,ME,76.5,7.4,69.2,82.2,75.6,82,9,6,Data,Yes,No,Not Placed
+Mitali Bhatt,22,Female,ME,86.6,9.2,68.2,86.2,82.4,79,5,9,Web,No,Yes,Placed
+Juhi Yadav,22,Female,ECE,82.9,7.4,72.6,87.3,72.1,84,6,8,Embedded,Yes,No,Placed
+Prachi Sharma,23,Female,IT,92.8,9.2,77.2,86.4,90.1,82,8,7,Data,Yes,No,Placed
+Aditi Kulkarni,23,Female,IT,92.2,7.9,88.6,76.7,80.9,76,5,9,Mech,Yes,No,Placed
+Sanya Bhatt,23,Female,IT,92.6,8.1,84.8,77.9,70.4,67,6,8,IoT,Yes,Yes,Not Placed
+Riya Sharma,22,Female,CSE,89.0,8.4,82.0,84.0,88.0,80,8,9,AI,Yes,Yes,Placed
+Arjun Mehta,23,Male,IT,85.0,7.8,79.0,80.0,82.0,74,7,8,Data Science,Yes,No,Placed
+Sneha Patil,21,Female,ECE,91.0,8.6,84.0,83.0,89.0,86,8,9,Networking,No,Yes,Placed
+Rahul Deshmukh,22,Male,CSE,76.0,6.8,70.0,72.0,74.0,60,6,6,Web Dev,No,No,Not Placed
+Priya Nair,23,Female,IT,80.0,7.5,77.0,79.0,81.0,72,7,8,Cloud,Yes,No,Placed
+Aman Gupta,22,Male,CSE,88.0,8.2,81.0,83.0,85.0,78,8,8,AI,Yes,Yes,Placed
+Kavya Joshi,21,Female,ECE,73.0,6.9,72.0,70.0,74.0,66,6,5,IoT,No,No,Not Placed
+Rohan Kulkarni,22,Male,IT,82.0,7.9,80.0,79.0,80.0,75,7,8,ML,Yes,Yes,Placed
+Neha Verma,23,Female,CSE,90.0,8.7,85.0,86.0,88.0,84,9,9,Data Science,Yes,Yes,Placed
+Aditya Singh,22,Male,CSE,69.0,6.5,68.0,65.0,70.0,58,5,6,Web Dev,No,No,Not Placed
+Ishita More,21,Female,ECE,84.0,7.8,79.0,81.0,83.0,74,8,8,AI,Yes,No,Placed
+Sagar Pawar,23,Male,IT,78.0,7.2,75.0,76.0,77.0,68,7,7,Cloud,No,No,Not Placed
+Tanya Kapoor,22,Female,CSE,92.0,8.8,86.0,88.0,90.0,85,9,9,Data Science,Yes,Yes,Placed
+Mohit Jain,23,Male,ECE,83.0,7.7,78.0,80.0,81.0,73,7,8,Networking,Yes,No,Placed
+Deepa Rane,21,Female,IT,70.0,6.7,69.0,68.0,72.0,62,6,6,Web Dev,No,No,Not Placed
+Karan Thakur,22,Male,CSE,87.0,8.1,80.0,82.0,84.0,77,8,8,AI,Yes,Yes,Placed
+Shreya Iyer,21,Female,ECE,89.0,8.5,83.0,85.0,87.0,82,8,9,ML,Yes,Yes,Placed
+Vivek Patil,22,Male,IT,77.0,7.0,74.0,75.0,76.0,65,6,7,Cloud,No,No,Not Placed
+Anjali Desai,23,Female,CSE,86.0,8.0,79.0,81.0,83.0,76,8,8,AI,Yes,Yes,Placed
+Nikhil Soni,22,Male,ECE,75.0,6.9,71.0,70.0,73.0,63,6,6,IoT,No,No,Not Placed
+Meera Joshi,21,Female,CSE,91.0,8.6,85.0,86.0,88.0,83,9,9,ML,Yes,Yes,Placed
+Ritesh Pawar,22,Male,IT,80.0,7.4,76.0,77.0,79.0,70,7,7,Web Dev,No,No,Not Placed
+Pooja Ghosh,22,Female,ECE,87.0,8.3,82.0,83.0,86.0,78,8,8,IoT,Yes,Yes,Placed
+Harsh Yadav,23,Male,CSE,68.0,6.5,69.0,66.0,72.0,60,6,5,Data Science,No,No,Not Placed
+Kritika Patil,21,Female,IT,84.0,7.9,80.0,81.0,83.0,76,8,8,AI,Yes,No,Placed
+Raghav Sharma,23,Male,ECE,78.0,7.2,74.0,75.0,77.0,67,7,7,Networking,No,No,Not Placed
+Neelam Chauhan,22,Female,CSE,89.0,8.4,83.0,85.0,87.0,80,8,9,Data Science,Yes,Yes,Placed
+Aman Patel,22,Male,IT,83.0,7.8,78.0,80.0,81.0,74,7,8,Cloud,Yes,No,Placed
+Shruti Desai,21,Female,ECE,86.0,8.1,81.0,82.0,84.0,79,8,8,ML,Yes,Yes,Placed
+Abhishek Nair,23,Male,CSE,75.0,7.0,73.0,72.0,74.0,65,6,7,Web Dev,No,No,Not Placed
+Sanika Kale,22,Female,IT,90.0,8.7,85.0,86.0,89.0,84,9,9,AI,Yes,Yes,Placed
+Rohit More,22,Male,ECE,72.0,6.9,71.0,70.0,73.0,64,6,6,IoT,No,No,Not Placed
+Tanvi Khatri,21,Female,CSE,88.0,8.2,82.0,83.0,86.0,79,8,8,Data Science,Yes,Yes,Placed
+Manish Dubey,23,Male,IT,76.0,7.1,74.0,75.0,76.0,68,7,7,Cloud,No,No,Not Placed
+Rachita Singh,22,Female,ECE,85.0,8.0,79.0,80.0,82.0,75,8,8,AI,Yes,Yes,Placed
+Deepak Jadhav,22,Male,CSE,82.0,7.8,78.0,80.0,82.0,74,7,8,ML,Yes,Yes,Placed
+Aarti Shetty,21,Female,IT,73.0,6.8,70.0,71.0,73.0,62,6,6,Web Dev,No,No,Not Placed
+Varun Tiwari,23,Male,ECE,88.0,8.3,82.0,83.0,85.0,78,8,9,Networking,Yes,Yes,Placed
+Jyoti Gaikwad,22,Female,CSE,91.0,8.6,84.0,85.0,87.0,82,9,9,AI,Yes,Yes,Placed
+Rajesh Naik,23,Male,IT,70.0,6.7,69.0,68.0,70.0,61,6,6,Cloud,No,No,Not Placed
+Meera Joshi,21,Female,CSE,91.0,8.6,85.0,86.0,88.0,83,9,9,ML,Yes,Yes,Placed
+Ritesh Pawar,22,Male,IT,80.0,7.4,76.0,77.0,79.0,70,7,7,Web Dev,No,No,Not Placed
+Pooja Ghosh,22,Female,ECE,87.0,8.3,82.0,83.0,86.0,78,8,8,IoT,Yes,Yes,Placed
+Harsh Yadav,23,Male,CSE,68.0,6.5,69.0,66.0,72.0,60,6,5,Data Science,No,No,Not Placed
+Kritika Patil,21,Female,IT,84.0,7.9,80.0,81.0,83.0,76,8,8,AI,Yes,No,Placed
+Raghav Sharma,23,Male,ECE,78.0,7.2,74.0,75.0,77.0,67,7,7,Networking,No,No,Not Placed
+Neelam Chauhan,22,Female,CSE,89.0,8.4,83.0,85.0,87.0,80,8,9,Data Science,Yes,Yes,Placed
+Aman Patel,22,Male,IT,83.0,7.8,78.0,80.0,81.0,74,7,8,Cloud,Yes,No,Placed
+Shruti Desai,21,Female,ECE,86.0,8.1,81.0,82.0,84.0,79,8,8,ML,Yes,Yes,Placed
+Abhishek Nair,23,Male,CSE,75.0,7.0,73.0,72.0,74.0,65,6,7,Web Dev,No,No,Not Placed
+Sanika Kale,22,Female,IT,90.0,8.7,85.0,86.0,89.0,84,9,9,AI,Yes,Yes,Placed
+Rohit More,22,Male,ECE,72.0,6.9,71.0,70.0,73.0,64,6,6,IoT,No,No,Not Placed
+Tanvi Khatri,21,Female,CSE,88.0,8.2,82.0,83.0,86.0,79,8,8,Data Science,Yes,Yes,Placed
+Manish Dubey,23,Male,IT,76.0,7.1,74.0,75.0,76.0,68,7,7,Cloud,No,No,Not Placed
+Rachita Singh,22,Female,ECE,85.0,8.0,79.0,80.0,82.0,75,8,8,AI,Yes,Yes,Placed
+Deepak Jadhav,22,Male,CSE,82.0,7.8,78.0,80.0,82.0,74,7,8,ML,Yes,Yes,Placed
+Aarti Shetty,21,Female,IT,73.0,6.8,70.0,71.0,73.0,62,6,6,Web Dev,No,No,Not Placed
+Varun Tiwari,23,Male,ECE,88.0,8.3,82.0,83.0,85.0,78,8,9,Networking,Yes,Yes,Placed
+Jyoti Gaikwad,22,Female,CSE,91.0,8.6,84.0,85.0,87.0,82,9,9,AI,Yes,Yes,Placed
+Rajesh Naik,23,Male,IT,70.0,6.7,69.0,68.0,70.0,61,6,6,Cloud,No,No,Not Placed
+Anjali Verma,22,Female,IT,85.0,8.0,82.0,83.0,85.0,78,8,8,AI,Yes,Yes,Placed
+Karan Sinha,23,Male,CSE,74.0,7.1,73.0,74.0,76.0,68,7,6,Web Dev,No,No,Not Placed
+Sneha Raut,21,Female,ECE,90.0,8.4,84.0,85.0,87.0,81,9,9,IoT,Yes,Yes,Placed
+Mohit Bhosale,22,Male,IT,76.0,7.3,75.0,76.0,78.0,70,7,7,Cloud,No,No,Not Placed
+Kavita Shinde,22,Female,CSE,89.0,8.5,83.0,84.0,86.0,80,9,9,Data Science,Yes,Yes,Placed
+Yash Mehta,23,Male,ECE,81.0,7.6,78.0,79.0,81.0,73,7,8,Networking,Yes,No,Placed
+Priya Salunkhe,21,Female,IT,86.0,8.1,81.0,82.0,84.0,77,8,8,ML,Yes,Yes,Placed
+Rohan Deshmukh,22,Male,CSE,73.0,6.9,72.0,70.0,74.0,64,6,6,Web Dev,No,No,Not Placed
+Aishwarya Nene,22,Female,ECE,88.0,8.2,82.0,83.0,85.0,78,8,9,IoT,Yes,Yes,Placed
+Nikhil Jagtap,23,Male,IT,77.0,7.0,74.0,75.0,77.0,67,7,7,Cloud,No,No,Not Placed
+Reema Kale,21,Female,CSE,90.0,8.7,86.0,87.0,89.0,83,9,9,AI,Yes,Yes,Placed
+Tushar Chavan,22,Male,ECE,79.0,7.4,76.0,77.0,79.0,71,7,7,Networking,Yes,No,Placed
+Neha Dighe,21,Female,IT,87.0,8.3,82.0,83.0,85.0,79,8,8,ML,Yes,Yes,Placed
+Omkar Shelar,23,Male,CSE,72.0,6.8,71.0,69.0,73.0,63,6,6,Web Dev,No,No,Not Placed
+Divya More,22,Female,ECE,84.0,7.8,79.0,80.0,82.0,75,8,8,IoT,Yes,Yes,Placed
+Sagar Pawar,23,Male,IT,75.0,7.1,73.0,74.0,76.0,68,7,7,Cloud,No,No,Not Placed
+Anushka Nair,22,Female,CSE,92.0,8.9,87.0,88.0,90.0,85,9,9,Data Science,Yes,Yes,Placed
+Aditya Gokhale,22,Male,ECE,80.0,7.5,78.0,79.0,81.0,72,7,8,Networking,Yes,Yes,Placed
+Krutika Patkar,21,Female,IT,83.0,8.0,80.0,81.0,83.0,76,8,8,AI,Yes,Yes,Placed
+Prathamesh Koli,23,Male,CSE,70.0,6.6,69.0,68.0,70.0,61,6,6,Web Dev,No,No,Not Placed
+Shreya Jadhav,21,Female,IT,89.0,8.4,84.0,85.0,87.0,79,9,9,AI,Yes,Yes,Placed
+Nitin Patil,23,Male,CSE,76.0,7.2,75.0,76.0,78.0,68,7,7,Web Dev,No,No,Not Placed
+Manasi Ghorpade,22,Female,ECE,91.0,8.7,86.0,87.0,89.0,83,9,9,IoT,Yes,Yes,Placed
+Rohit Kadam,23,Male,IT,78.0,7.3,76.0,77.0,79.0,70,7,7,Cloud,No,No,Not Placed
+Vaishnavi Bhise,22,Female,CSE,88.0,8.5,84.0,85.0,87.0,81,9,9,ML,Yes,Yes,Placed
+Amey Desai,23,Male,ECE,80.0,7.6,78.0,79.0,81.0,72,7,8,Networking,Yes,Yes,Placed
+Tanvi Bane,21,Female,IT,86.0,8.2,82.0,83.0,85.0,78,8,8,AI,Yes,Yes,Placed
+Chetan Shirsat,23,Male,CSE,71.0,6.8,71.0,70.0,73.0,63,6,6,Web Dev,No,No,Not Placed
+Rutuja Phadke,22,Female,ECE,84.0,7.8,79.0,80.0,82.0,75,8,8,IoT,Yes,Yes,Placed
+Aniket More,22,Male,IT,74.0,7.1,73.0,74.0,76.0,67,7,7,Cloud,No,No,Not Placed
+Priyanka Bhosle,21,Female,CSE,92.0,8.8,87.0,88.0,90.0,84,9,9,Data Science,Yes,Yes,Placed
+Shubham Wagh,23,Male,ECE,79.0,7.4,76.0,77.0,79.0,70,7,7,Networking,Yes,No,Placed
+Ashwini Pawar,22,Female,IT,85.0,8.1,81.0,82.0,84.0,77,8,8,ML,Yes,Yes,Placed
+Piyush Nikam,23,Male,CSE,70.0,6.6,69.0,68.0,70.0,61,6,6,Web Dev,No,No,Not Placed
+Neelam Chavan,21,Female,ECE,83.0,7.9,80.0,81.0,83.0,75,8,8,IoT,Yes,Yes,Placed
+Swapnil Rane,23,Male,IT,76.0,7.2,74.0,75.0,77.0,68,7,7,Cloud,No,No,Not Placed
+Smita Patankar,22,Female,CSE,91.0,8.6,85.0,86.0,88.0,82,9,9,Data Science,Yes,Yes,Placed
+Tejas Mane,23,Male,ECE,80.0,7.5,78.0,79.0,81.0,72,7,8,Networking,Yes,Yes,Placed
+Pratik Naik,23,Male,IT,81.0,7.7,79.0,80.0,82.0,73,8,8,Cloud,Yes,Yes,Placed
+Sneha Joshi,21,Female,CSE,90.0,8.7,86.0,87.0,89.0,83,9,9,Data Science,Yes,Yes,Placed
+Akash Kshirsagar,23,Male,ECE,77.0,7.3,76.0,77.0,79.0,70,7,7,IoT,No,No,Not Placed
+Kavita More,22,Female,IT,85.0,8.0,81.0,82.0,84.0,77,8,8,AI,Yes,Yes,Placed
+Rohan Jagtap,23,Male,CSE,73.0,7.0,72.0,73.0,75.0,66,7,6,Web Dev,No,No,Not Placed
+Deepali Sawant,22,Female,ECE,88.0,8.5,84.0,85.0,87.0,80,9,8,IoT,Yes,Yes,Placed
+Harshal Koli,23,Male,IT,79.0,7.4,77.0,78.0,80.0,71,7,7,Cloud,Yes,Yes,Placed
+Aishwarya Pawar,21,Female,CSE,91.0,8.9,88.0,89.0,91.0,85,9,9,ML,Yes,Yes,Placed
+Sagar Jadhav,23,Male,ECE,75.0,7.1,73.0,74.0,76.0,67,7,7,Networking,No,No,Not Placed
+Rutuja Sonawane,22,Female,IT,86.0,8.3,82.0,83.0,85.0,78,8,8,AI,Yes,Yes,Placed
+Omkar Deshmukh,23,Male,CSE,80.0,7.6,78.0,79.0,81.0,72,7,8,Web Dev,Yes,Yes,Placed
+Shraddha Shinde,21,Female,ECE,84.0,7.9,80.0,81.0,83.0,75,8,8,IoT,Yes,Yes,Placed
+Aditya Gaikwad,23,Male,IT,70.0,6.7,70.0,69.0,72.0,62,6,6,Cloud,No,No,Not Placed
+Priya Bhandari,22,Female,CSE,89.0,8.5,85.0,86.0,88.0,81,9,9,Data Science,Yes,Yes,Placed
+Kunal Gokhale,23,Male,ECE,78.0,7.3,75.0,76.0,78.0,70,7,7,Networking,No,No,Not Placed
+Tanmay Deshmukh,23,Male,IT,82.0,7.8,80.0,81.0,83.0,74,8,8,Cloud,Yes,Yes,Placed
+Aditi Chitale,21,Female,CSE,87.0,8.4,83.0,84.0,86.0,79,8,9,ML,Yes,Yes,Placed
+Rushikesh Thorat,23,Male,ECE,74.0,7.0,72.0,73.0,75.0,65,7,6,IoT,No,No,Not Placed
+Divya Mahajan,22,Female,IT,92.0,8.9,88.0,89.0,91.0,84,9,9,AI,Yes,Yes,Placed
+Mayur Khedekar,23,Male,CSE,71.0,6.8,70.0,70.0,72.0,62,6,6,Web Dev,No,No,Not Placed
+Chetan Bachchhav,22,Male,CSE,85.0,9.6,80.0,77.0,75.0,80,8,8,Web Dev,No,10,Placed
+Prakash Patil,25,Male,CSE,80.0,9.31,81.0,67.0,72.0,20,5,10,Web Dev,No,10,Placed
+Girish Chuadhari ,22,Male,CSE,75.0,9.0,80.0,82.0,75.0,50,6,7,Web Dev,No,Yes,Placed
+Prafull Nile,22,Male,CSE,85.0,9.4,74.0,79.0,72.0,50,8,7,Web Dev,No,5,Placed

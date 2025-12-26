@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {% extends "base.html" %}
 
 {% block title %}Home - Movie Recommender{% endblock %}
@@ -59,3 +60,232 @@
     {% endif %}
 </div>
 {% endblock %}
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Placement Predictor</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎓 Student Placement Predictor</h1>
+            <p>Enter your complete academic profile for placement prediction</p>
+        </div>
+
+        <form id="predictionForm">
+            <!-- Personal Information -->
+            <div class="section-title">📋 Personal Information</div>
+            
+            <div class="form-group">
+                <label for="name">Full Name *</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="age">Age *</label>
+                    <input type="number" id="age" name="age" min="18" max="30" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="gender">Gender *</label>
+                    <select id="gender" name="gender" required>
+                        <option value="">Select Gender</option>
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="branch">Branch *</label>
+                    <select id="branch" name="branch" required>
+                        <option value="">Select Branch</option>
+                        <option value="CSE">Computer Science (CSE)</option>
+                        <option value="IT">Information Technology (IT)</option>
+                        <option value="ECE">Electronics (ECE)</option>
+                        <option value="ME">Mechanical (ME)</option>
+                        <option value="Management">Management</option>
+                        <option value="HR">Human Resources (HR)</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Academic Performance -->
+            <div class="section-title">📚 Academic Performance</div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="current_cgpa">Current CGPA (0-10) *</label>
+                    <input type="number" id="current_cgpa" name="current_cgpa" step="0.01" min="0" max="10" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="attendance_percentage">Attendance % *</label>
+                    <input type="number" id="attendance_percentage" name="attendance_percentage" step="0.1" min="0" max="100" required>
+                </div>
+            </div>
+
+            <div class="form-row-3">
+                <div class="form-group">
+                    <label for="graduation_percentage">Graduation % *</label>
+                    <input type="number" id="graduation_percentage" name="graduation_percentage" step="0.1" min="0" max="100" required>
+                    <div class="help-text">Current degree percentage</div>
+                </div>
+
+                <div class="form-group">
+                    <label for="hsc">HSC/12th % *</label>
+                    <input type="number" id="hsc" name="hsc" step="0.1" min="0" max="100" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="ssc">SSC/10th % *</label>
+                    <input type="number" id="ssc" name="ssc" step="0.1" min="0" max="100" required>
+                </div>
+            </div>
+
+            <!-- Skills Assessment -->
+            <div class="section-title">💡 Skills Assessment</div>
+
+            <div class="form-row-3">
+                <div class="form-group">
+                    <label for="aptitude_score">Aptitude Score (0-100) *</label>
+                    <input type="number" id="aptitude_score" name="aptitude_score" min="0" max="100" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="communication_skills">Communication Skills (1-10) *</label>
+                    <input type="number" id="communication_skills" name="communication_skills" min="1" max="10" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="technical_skills">Technical Skills (1-10) *</label>
+                    <input type="number" id="technical_skills" name="technical_skills" min="1" max="10" required>
+                </div>
+            </div>
+
+            <!-- Professional Experience -->
+            <div class="section-title">🚀 Professional Experience</div>
+
+            <div class="form-group">
+                <label for="domain">Domain/Area of Interest *</label>
+                <select id="domain" name="domain" required>
+                    <option value="">Select Domain</option>
+                    <option value="AI">Artificial Intelligence (AI)</option>
+                    <option value="ML">Machine Learning (ML)</option>
+                    <option value="Data Science">Data Science</option>
+                    <option value="Web Dev">Web Development</option>
+                    <option value="Cloud">Cloud Computing</option>
+                    <option value="IoT">Internet of Things (IoT)</option>
+                    <option value="Networking">Networking</option>
+                    <option value="Embedded">Embedded Systems</option>
+                    <option value="Mech">Mechanical</option>
+                    <option value="Management">Management</option>
+                    <option value="HR">Human Resources</option>
+                    <option value="IT">Information Technology</option>
+                    <option value="Other">Other</option>
+                </select>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="internship">Internship Experience *</label>
+                    <select id="internship" name="internship" required>
+                        <option value="">Select</option>
+                        <option value="Yes">Yes</option>
+                        <option value="No">No</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="certifications">Certifications *</label>
+                    <select id="certifications" name="certifications" required>
+                        <option value="">Select Count</option>
+                        <option value="No">None (0)</option>
+                        <option value="Yes">Yes (1-4)</option>
+                        <option value="5">5 Certifications</option>
+                        <option value="10">10 Certifications</option>
+                        <option value="15">15 Certifications</option>
+                        <option value="More than 20">More than 20</option>
+                    </select>
+                </div>
+            </div>
+
+            <button type="submit">🔮 Predict Placement Chances</button>
+
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Analyzing your profile...</p>
+            </div>
+
+            <div class="result" id="result"></div>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById('predictionForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const loading = document.getElementById('loading');
+            const result = document.getElementById('result');
+            const submitBtn = e.target.querySelector('button[type="submit"]');
+            
+            // Show loading
+            loading.style.display = 'block';
+            result.style.display = 'none';
+            submitBtn.disabled = true;
+            
+            // Prepare form data
+            const formData = new FormData(e.target);
+            
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const data = await response.json();
+                
+                // Hide loading
+                loading.style.display = 'none';
+                submitBtn.disabled = false;
+                
+                if (data.success) {
+                    // Show result
+                    result.className = 'result ' + (data.prediction === 'Placed' ? 'placed' : 'not-placed');
+                    
+                    const icon = data.prediction === 'Placed' ? '✅' : '⚠️';
+                    
+                    result.innerHTML = `
+                        <h2>${icon} ${data.prediction}!</h2>
+                        <p>Hello, <strong>${data.name}</strong></p>
+                        <div class="percentage">${data.placement_chance}%</div>
+                        <p>Placement Probability</p>
+                        <p style="margin-top: 20px; font-size: 0.95em; opacity: 0.8;">
+                            Your data has been saved to the database for future training.
+                        </p>
+                    `;
+                    
+                    result.style.display = 'block';
+                    
+                    // Scroll to result
+                    result.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                } else {
+                    alert('Error: ' + data.error);
+                }
+                
+            } catch (error) {
+                loading.style.display = 'none';
+                submitBtn.disabled = false;
+                alert('An error occurred. Please try again.');
+                console.error(error);
+            }
+        });
+    </script>
+</body>
+</html>
+>>>>>>> 3e09f85a95613e3ae468b6290a31b29477359aa8
